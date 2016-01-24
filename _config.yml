@@ -1,7 +1,7 @@
 name: SocialMedia2
 favicon: null
-layout_spectrum: 0.04552518832497299
-typography_spectrum: 0.7389204052742571
+layout_spectrum: 1
+typography_spectrum: 0.28998
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.05775372008793056
+    - '#fcfcfc'
+    - '#1bade6'
+    - '#bebfc1'
+    - '#3a3a3a'
+    - '#7a7b7d'
+  brandStrength: 0.0625
   lightness: 0.2754929687362164
   saturation: 0.9019466866739094
   rhythmicContrast: 0.0759005737490952
