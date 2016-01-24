@@ -1,0 +1,28 @@
+name: SocialMedia2
+favicon: null
+layout_spectrum: 0.04552518832497299
+typography_spectrum: 0.7389204052742571
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.05775372008793056
+  lightness: 0.2754929687362164
+  saturation: 0.9019466866739094
+  rhythmicContrast: 0.0759005737490952
+purpose: []
